@@ -1,1 +1,1 @@
-O objetivo deste trabalho era aplicar os conceitos e técnicas de programação em linguagem C para resolver o problema de ordenação de um vetor de palavras. O desafio estava em adaptar e implementar o algoritmo Quicksort para classificar o vetor em ordem crescente, lidando com palavras representadas como strings.
+
